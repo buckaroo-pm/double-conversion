@@ -11,8 +11,6 @@ cxx_library(
     'double-conversion/fixed-dtoa.h',
     'double-conversion/ieee.h',
     'double-conversion/strtod.h',
-  ],
-  headers = [
     'double-conversion/utils.h',
   ], 
   srcs = [
